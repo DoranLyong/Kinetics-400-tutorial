@@ -32,3 +32,6 @@ Go to ```dataset``` directory, and follow the instructions.
 python ./utils/extract_frames.py
 ```
 
+
+## 3. Pytorch dataset & dataloader 
+Check ```Video_DataLoader.ipynb```. 
