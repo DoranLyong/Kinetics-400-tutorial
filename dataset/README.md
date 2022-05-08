@@ -13,10 +13,6 @@ If you want to achieve full size, please refer to below:
 
 ## Mini Kinetics-400 
 
-* colab tutorial; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DoranLyong/Kinetics-400-tutorial/blob/main/notebook/Kinetics_400.ipynb)
-
-
-
 ### preliminaries
 
 * reference to [YutaroOgawa's github](https://github.com/YutaroOgawa/pytorch_advanced/tree/master/9_video_classification_eco/video_download) ← for minimal Kinetics-400  
