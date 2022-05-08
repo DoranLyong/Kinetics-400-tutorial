@@ -1,1 +1,1 @@
-# Kinetics-400-tutorial
+# Kinetics-400 tutorial
