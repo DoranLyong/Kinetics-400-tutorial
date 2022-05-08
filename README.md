@@ -1,5 +1,7 @@
 # Kinetics-400 tutorial
 
+* run by colab; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DoranLyong/Kinetics-400-tutorial/blob/main/notebook/Kinetics_400.ipynb)
+
 
 
 ## 1. Prerequisite 
